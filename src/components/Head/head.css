@@ -1,0 +1,8 @@
+ul a {
+    margin-right: 20px;
+}
+ul a.active {
+    text-decoration: underline;
+    color: aqua;
+    font-size: larger;
+}
